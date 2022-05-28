@@ -156,14 +156,14 @@ nav ul li a:hover{
 
 }
 .car1{
-    background-image: url(/honda_civic_si.jfif);
+    background-image: url(honda_civic_si.jfif);
     border: 50% 50% 0% 0%;
 }
 .car2{
-    background-image: url(/supra.jfif);
+    background-image: url(supra.jfif);
 }
 .car3{
-    background-image: url(/GT-R.jfif);
+    background-image: url(GT-R.jfif);
 }
 .card p{
     padding: 10px;
